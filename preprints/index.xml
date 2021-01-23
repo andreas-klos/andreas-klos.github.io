@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Andreas Klos</title>
-    <link>https://andreas-klos.github.io/publication-type/0/</link>
-      <atom:link href="https://andreas-klos.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
-    <description>0</description>
+    <title>Preprints | Andreas Klos</title>
+    <link>https://andreas-klos.github.io/preprints/</link>
+      <atom:link href="https://andreas-klos.github.io/preprints/index.xml" rel="self" type="application/rss+xml" />
+    <description>Preprints</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreas-klos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>0</title>
-      <link>https://andreas-klos.github.io/publication-type/0/</link>
+      <title>Preprints</title>
+      <link>https://andreas-klos.github.io/preprints/</link>
     </image>
     
     <item>
@@ -21,10 +21,10 @@
     </item>
     
     <item>
-      <title>Ensemble transfer learning for emergency landing field identification on moderate resource heterogeneous kubernetes cluster</title>
-      <link>https://andreas-klos.github.io/publication/klos-2020-a/</link>
+      <title>Traffic Flow Forecast of Road Networks with Recurrent Neural Networks</title>
+      <link>https://andreas-klos.github.io/preprints/ruther-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://andreas-klos.github.io/publication/klos-2020-a/</guid>
+      <guid>https://andreas-klos.github.io/preprints/ruther-2020/</guid>
       <description></description>
     </item>
     
