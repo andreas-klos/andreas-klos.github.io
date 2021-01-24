@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deeplearning ˙ RNN ˙ LSTM ˙ GRU ˙ Traffic Forecast | Andreas Klos</title>
-    <link>https://andreas-klos.github.io/tag/deeplearning-rnn-lstm-gru-traffic-forecast/</link>
-      <atom:link href="https://andreas-klos.github.io/tag/deeplearning-rnn-lstm-gru-traffic-forecast/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deeplearning ˙ RNN ˙ LSTM ˙ GRU ˙ Traffic Forecast</description>
+    <title>3 | Andreas Klos</title>
+    <link>https://andreas-klos.github.io/publication-type/3/</link>
+      <atom:link href="https://andreas-klos.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreas-klos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Deeplearning ˙ RNN ˙ LSTM ˙ GRU ˙ Traffic Forecast</title>
-      <link>https://andreas-klos.github.io/tag/deeplearning-rnn-lstm-gru-traffic-forecast/</link>
+      <title>3</title>
+      <link>https://andreas-klos.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Ensemble transfer learning for emergency landing field identification on moderate resource heterogeneous kubernetes cluster</title>
+      <link>https://andreas-klos.github.io/publication/klos-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://andreas-klos.github.io/publication/klos-2020-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Traffic Flow Forecast of Road Networks with Recurrent Neural Networks</title>
