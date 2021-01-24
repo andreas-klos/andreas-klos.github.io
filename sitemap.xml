@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andreas-klos.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andreas-klos.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andreas-klos.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -29,6 +14,11 @@
   
   <url>
     <loc></loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreas-klos.github.io/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://andreas-klos.github.io/publication/klos-2020-a/</loc>
+    <loc>https://andreas-klos.github.io/publication/candar2020pre/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://andreas-klos.github.io/publication/ruther-2020/</loc>
+    <loc>https://andreas-klos.github.io/publication/traffic_flow_forecast_pre/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,21 +190,6 @@
   <url>
     <loc>https://andreas-klos.github.io/publication/marius-klein-andreas-klos-jorg-lenhardt-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andreas-klos.github.io/tag/elfi/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andreas-klos.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andreas-klos.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
