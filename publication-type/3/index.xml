@@ -5,12 +5,28 @@
     <link>https://andreas-klos.github.io/publication-type/3/</link>
       <atom:link href="https://andreas-klos.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andreas-klos.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://andreas-klos.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Scalable and Highly Available Multi-Objective Neural Architecture Search in Bare Metal Kubernetes Cluster</title>
+      <link>https://andreas-klos.github.io/publication/krs-2021-a/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://andreas-klos.github.io/publication/krs-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Ensemble Transfer Learning Model for a Reliable Emergency Landing Field Identification</title>
+      <link>https://andreas-klos.github.io/publication/krs-2021-b/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://andreas-klos.github.io/publication/krs-2021-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Hierarchical Ensemble Transfer Learning Model for a Reliable Emergency Landing Field Identification</title>
