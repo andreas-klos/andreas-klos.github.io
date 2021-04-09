@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc></loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andreas-klos.github.io/tag/deeplearning-rnn-lstm-gru-traffic-forecast/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -103,7 +108,17 @@
   </url>
   
   <url>
+    <loc>https://andreas-klos.github.io/publication/candar-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andreas-klos.github.io/publication/candar2020pre/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -119,6 +134,11 @@
   
   <url>
     <loc>https://andreas-klos.github.io/publication/traffic_flow_forecast_pre/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
